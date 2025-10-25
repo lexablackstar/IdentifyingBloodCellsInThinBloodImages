@@ -46,7 +46,7 @@ This toolkit enables researchers, medical students, and biomedical engineers to 
 
 ---
 
-## **Skills Demonstrated**
+## **Skills**
 
 - Image Processing
 - MATLAB Programming
